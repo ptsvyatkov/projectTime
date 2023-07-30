@@ -1,8 +1,6 @@
 package basics;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -30,11 +28,11 @@ public class StringMatching2 {
         List words2 = Arrays.stream(words).toList(); // alternatively, turn the word array into a stream and return as list to check size
         System.out.println(words2.size());
 
-        // Print what the String array contains with lambda function
-        // Stream.of(words).forEach(x -> System.out.println(x));
-          // or
-        // using the :: method reference
-        // Stream.of(words).forEach(System.out::println);
+//         Print what the String array contains with lambda function
+//         Stream.of(words).forEach(x -> System.out.println(x));
+//           or
+//         using the :: method reference
+//         Stream.of(words).forEach(System.out::println);
 
     }
 
