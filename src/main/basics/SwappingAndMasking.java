@@ -16,8 +16,10 @@ public class SwappingAndMasking {
         byte c;
         c = (byte) (a<<4);
         c = (byte) (c | b);
+
         // Bitwise masking the first 4 bits of c and then moving those to the right-hand side (last 4 bits)
         System.out.println("The first number is "  +((c&0b11110000)>>4));
+
         // No need to bitshift them as they are already on the right-hand side (least significant bit side)
         System.out.println("The second number is " +(c&0b00001111));
     }
