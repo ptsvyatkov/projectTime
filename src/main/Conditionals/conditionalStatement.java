@@ -1,4 +1,4 @@
-package conditionals;
+package Conditionals;
 
 public class conditionalStatement {
     static int a = 10, b = 15, c = 20;

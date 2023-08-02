@@ -1,4 +1,4 @@
-package loops;
+package Loops;
 
 public class CountDigits {
     static int count;

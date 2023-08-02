@@ -1,6 +1,4 @@
-package basics;
-
-import java.util.regex.Pattern;
+package Basics;
 
 public class StringMatching {
 

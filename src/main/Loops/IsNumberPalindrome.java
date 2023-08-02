@@ -1,4 +1,4 @@
-package loops;
+package Loops;
 
 public class IsNumberPalindrome {
     static int reverse = 0;
