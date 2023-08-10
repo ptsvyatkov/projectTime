@@ -1,2 +1,2 @@
 # skill-refresh
-Skill refresh from basics to advanced
+Skill refresh from Basics to advanced
