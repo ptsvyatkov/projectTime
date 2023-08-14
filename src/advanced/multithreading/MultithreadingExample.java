@@ -18,6 +18,5 @@ class TestMultithread {
             System.out.println(i+" world");
             i++;
         }
-
     }
 }
