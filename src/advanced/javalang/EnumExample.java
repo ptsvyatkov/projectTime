@@ -1,10 +1,5 @@
 package javalang;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 enum Dept {
     CS("Head1","Block A"), IT("Head2","Block B"), CIVIL("Head3","Block C"), EC("Head4","Block D");
 
