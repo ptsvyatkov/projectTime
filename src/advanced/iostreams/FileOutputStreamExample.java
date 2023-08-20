@@ -3,7 +3,7 @@ package iostreams;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class FileStreams {
+public class FileOutputStreamExample {
 
     public static void main(String[] args) {
         try {
