@@ -1,2 +1,4 @@
 FILE OUTPUT STREAM
 COPY TEXT FROM ONE FILE TO ANOTHER
+file output stream
+copy text from one file to another
