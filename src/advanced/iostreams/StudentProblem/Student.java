@@ -1,4 +1,4 @@
-package iostreams;
+package iostreams.StudentProblem;
 
 public class Student {
     int rollno;

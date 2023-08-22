@@ -1,4 +1,4 @@
-package iostreams;
+package iostreams.StudentProblem;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
