@@ -4,7 +4,7 @@ import java.io.*;
 
 public class StudentBufferedReaderExample1 {
     public static void main(String[] args) throws IOException {
-        FileInputStream fis = new FileInputStream("./src/advanced/iostreams/Student.txt");
+        FileInputStream fis = new FileInputStream("./src/advanced/iostreams/StudentProblem/Student.txt");
         BufferedReader br = new BufferedReader(new InputStreamReader(fis)); // bridge class InputStreamReader which will connect
         Student s = new Student();                                          // file output stream with reader (reader with stream classes)
         s.rollno =  Integer.parseInt(br.readLine());
